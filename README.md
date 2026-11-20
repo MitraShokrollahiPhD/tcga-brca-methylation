@@ -20,13 +20,13 @@ This project reproduces well-documented findings; it makes no novel claim.
 - Hypermethylated probes were concentrated at CpG islands (53.8% vs 34.9% of unchanged probes); hypomethylated probes were concentrated in open sea (67.4% vs 32.3%), the known pattern in cancer.
 - Hypermethylated promoter probes showed more negative methylation-expression correlations than background probes (median Spearman rho -0.14 vs -0.06; 21% vs 8% below -0.3), consistent with promoter methylation being associated with lower expression.
 
-![Volcano plot](results/volcano_methylation.png)
+![Volcano plot](analysis/volcano_methylation.png)
 *Differential methylation, primary tumour vs normal. Dashed lines mark delta beta = +/-0.2.*
 
-![CpG island context](results/island_context.png)
+![CpG island context](analysis/island_context.png)
 *Position relative to CpG islands, by probe group.*
 
-![Methylation vs expression](results/methylation_vs_expression.png)
+![Methylation vs expression](analysis/methylation_vs_expression.png)
 *Correlation between promoter methylation and expression of the same gene, in tumours.*
 
 ## Limitations
