@@ -1,4 +1,4 @@
-# DNA methylation in breast cancer: tumour vs normal
+# DNA methylation in TCGA breast cancer: tumour vs normal
 
 ## Question
 Which CpG sites differ in methylation between primary breast tumours and normal breast tissue, where do they sit relative to CpG islands, and is promoter hypermethylation associated with lower expression of the same gene?
