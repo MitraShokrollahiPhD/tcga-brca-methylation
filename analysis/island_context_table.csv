@@ -1,0 +1,19 @@
+"status","island","n","pct"
+"Hypermethylated in tumour","Island",8421,53.828944004091
+"Hypermethylated in tumour","N_Shore",2138,13.6665814369726
+"Hypermethylated in tumour","S_Shore",1453,9.2879059064178
+"Hypermethylated in tumour","N_Shelf",310,1.98159038609051
+"Hypermethylated in tumour","S_Shelf",224,1.43185885962669
+"Hypermethylated in tumour","OpenSea",3098,19.8031194068013
+"Hypomethylated in tumour","Island",443,3.63860369609856
+"Hypomethylated in tumour","N_Shore",1076,8.83778234086242
+"Hypomethylated in tumour","S_Shore",883,7.25256673511294
+"Hypomethylated in tumour","N_Shelf",821,6.74332648870637
+"Hypomethylated in tumour","S_Shelf",744,6.11088295687885
+"Hypomethylated in tumour","OpenSea",8208,67.4168377823409
+"Not significant / small change","Island",120062,34.8636374195647
+"Not significant / small change","N_Shore",46036,13.3679466629498
+"Not significant / small change","S_Shore",36070,10.4740167723651
+"Not significant / small change","N_Shelf",16329,4.74161962506098
+"Not significant / small change","S_Shelf",14552,4.22561386391618
+"Not significant / small change","OpenSea",111327,32.3271656561433
