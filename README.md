@@ -3,7 +3,7 @@
 ## Question
 Which CpG sites differ in methylation between primary breast tumours and normal breast tissue, where do they sit relative to CpG islands, and is promoter hypermethylation associated with lower expression of the same gene?
 
-This project reproduces well-documented findings and it does not makes any novel claim. 
+This project reproduces well-documented findings and it does not make any novel claims. 
 
 ## Data
 - TCGA-BRCA Illumina 450k methylation (beta values), downloaded from the GDC with TCGAbiolinks: 97 normal breast samples and a random subset of 200 primary tumours (seed 42, preferring patients who also have a normal sample).
